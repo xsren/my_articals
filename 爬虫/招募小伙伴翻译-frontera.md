@@ -1,3 +1,9 @@
+------20170929 更新------
+历时7个月，终于完成了所有的翻译。感谢参与的小伙伴。😀
+------
+
+
+
 ####一、为什么要翻译 frontera ？
 frontera 是目前最好的scrapy 分布式框架，不了解frontera的可以参考我写的[ frontera 介绍文章](http://www.jianshu.com/p/ff8846ad0e94)。但是这个框架的知名度却不高（可能是名字的原因，参考 scrapy-redis，scrapy-cluster, 名字有 scrapy 提高了搜索排名，论起名字的重要性），中文文档更是几乎没有。为了服务广大群众，我决定要翻译[ frontera 官方文档](http://frontera.readthedocs.io/en/latest/)。
 

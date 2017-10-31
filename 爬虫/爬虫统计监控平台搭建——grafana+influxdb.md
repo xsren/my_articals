@@ -151,4 +151,4 @@ if __name__ == '__main__':
 ![image.png](http://upload-images.jianshu.io/upload_images/3781366-d9579666ecc117df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 后续
-grafana也提供了api，后续这些操作都可以自动化。grafana+influxdb
+grafana也提供了api，后续这些操作都可以自动化。
